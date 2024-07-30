@@ -43,4 +43,4 @@ https://learn.microsoft.com/pt-br/training/paths/beginner-python/
 
 
 
-### Acesse os slides da monitoria [aqui](https://docs.google.com/presentation/d/1Fb91BnKHGg0wE55GO3D37wjqbffQ5Hx2BCFDHve5ZZ8/edit?usp=sharing)!
+### Acesse os slides da monitoria ↪️ [aqui!](https://docs.google.com/presentation/d/1Fb91BnKHGg0wE55GO3D37wjqbffQ5Hx2BCFDHve5ZZ8/edit?usp=sharing)!
