@@ -36,13 +36,13 @@ print(saudacao(nome))
 
 
 ### 4. 🦋Links úteis:
-<a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python" target="_blank">- Extensão Python para Visual Studio Code;</a>
+- <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python" target="_blank">- Extensão Python para Visual Studio Code;</a>
 
-<a href="https://wiki.python.org/moin/BeginnersGuide" target="_blank">- Guia para iniciantes em Python;</a>
+- <a href="https://wiki.python.org/moin/BeginnersGuide" target="_blank">- Guia para iniciantes em Python;</a>
 
-<a href="https://peps.python.org/pep-0008/" target="_blank">- Guia de estilo PEP 8;</a>
+- <a href="https://peps.python.org/pep-0008/" target="_blank">- Guia de estilo PEP 8;</a>
 
-<a href="https://learn.microsoft.com/pt-br/training/paths/beginner-python/" target="_blank">- Curso de Python para iniciantes - Microsoft;</a>
+- <a href="https://learn.microsoft.com/pt-br/training/paths/beginner-python/" target="_blank">- Curso de Python para iniciantes - Microsoft;</a>
 
 
 
