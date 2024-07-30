@@ -25,10 +25,3 @@ Strings são sequências de caracteres usadas para armazenar texto. Elas podem s
 
 Booleanos representam `True` (verdadeiro) ou `False` (falso) e são úteis para controle de fluxo em condicionais e loops. Ex: `ativo = True`
 
-### 📚 Listas
-
-Uma lista é uma sequência ordenada de valores, que podem ser de tipos diferentes. Ex:
-
-```python
-animais = ["gato", "cachorro", "pássaro", "leão"]
-professora = ["Maria", 30, 1.75, True]
