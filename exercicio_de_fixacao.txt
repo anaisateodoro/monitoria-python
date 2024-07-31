@@ -1,0 +1,24 @@
+###Exercício de fixação:###
+
+1)Verdadeiro ou Falso: o nome seguinte é válido em Python: Uma_boa_nota_é_A+
+
+2)Qual dos seguintes é um erro de sintaxe?
+a)Tentar dividir por 0.
+b)Esquecer um : no final de um comando onde seja necessário.
+c)Esquecer de dividir por 100 quando exibir um valor de percentual.
+
+3)Quem ou o que tipicamente encontra erros de sintaxe?
+a)O programador.
+b)O compilador / interpretador.
+c)O computador.
+
+4) Qual valor é exibido pelo seguinte comando print(18 / 4)?
+a)4.5
+b)5
+c)4
+d)2
+
+5)Qual valor é exibido pelo seguinte comando print(18 // 4)?
+a)4.25
+b)5
+c)4
